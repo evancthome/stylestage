@@ -359,7 +359,7 @@ section ol li::before {
   position: absolute;
   left: -3.6rem;
   padding: 0.5em 1em;
-  background: var(--clr-theme-100);
+  background: var(--clr-theme-300);
   font-weight: 700;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
@@ -373,7 +373,7 @@ section ol li::after {
   padding: 0.5em 1em;
   top: 0.75rem;
   z-index: -1;
-  background: var(--clr-theme-300);
+  background: var(--clr-theme-100);
 }
 
 main footer {
